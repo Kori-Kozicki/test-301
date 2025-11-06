@@ -26,5 +26,8 @@ public class MainActivity extends AppCompatActivity {
 
         // First commit. Gonna do some basic math
         Integer x = 5;
+
+
+        // AHHHHHHHHHHHHHHHH 3rd commit... hopefully this works
     }
 }
